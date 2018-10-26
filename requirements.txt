@@ -2,3 +2,4 @@ beautifulsoup4>=4.6.1
 click>=6.7
 pyyaml>=3.13
 xerox>=0.4.1
+flask>=1.0.2
